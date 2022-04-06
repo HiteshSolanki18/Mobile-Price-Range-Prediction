@@ -9,7 +9,7 @@ Roles & Responsibilities :
 
 -> First of all, I have Collected Data From Kaggle.
 
--> I have Preprocessed Data Using Several Methods Like Convert Megabytes to Gigabytes.
+-> I have Preprocessed Data like Bring Data into Proper Structure and many more.
 
 -> After that, I have Done Exploratory Data Analysis Using Seaborn Library.
 
